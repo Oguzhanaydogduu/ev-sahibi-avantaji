@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.xlsx
+notebooks/lig_ozet_ev_sahibi_avantaji.csv
